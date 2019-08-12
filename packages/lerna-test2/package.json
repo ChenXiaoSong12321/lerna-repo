@@ -10,6 +10,6 @@
   "license": "ISC",
   "gitHead": "d220a370b9cc477ed858ad2d6fe215e416f766c6",
   "dependencies": {
-    "@lerna/test1": "../@lerna-test1"
+    "@lerna/test1": "../lerna-test1"
   }
 }
