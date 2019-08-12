@@ -1,7 +1,7 @@
-let test2 = '@lerna/test1'
+let test1 = '@lerna/test1'
 module.exports = {
   a =3,
-  test2 = test2.hh,
+  test1 = test1.hh,
   log(){
     console.log('module1');
   }
