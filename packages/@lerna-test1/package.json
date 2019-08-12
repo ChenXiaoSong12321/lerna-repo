@@ -1,6 +1,6 @@
 {
   "name": "@lerna/test1",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "5de5acdfdc488933907f16502cbc3028bc6d8092"
+  "gitHead": "d220a370b9cc477ed858ad2d6fe215e416f766c6",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }

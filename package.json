@@ -1,5 +1,5 @@
 {
-  "name": "hupo",
+  "name": "lerna",
   "private": true,
   "devDependencies": {
     "lerna": "^3.16.4"
