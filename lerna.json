@@ -2,5 +2,6 @@
   "packages": [
     "packages/*"
   ],
-  "registry": "https://nexus.hupovip.cn/repository/hp-npm/"
+  "registry": "https://nexus.hupovip.cn/repository/hp-npm/",
+  "version": "0.0.0"
 }
