@@ -1,6 +1,6 @@
 module.exports = {
   a = 3,
-  hh=333,
+  hh = 'sddfsfes',
   log(){
     console.log('module1');
   }
