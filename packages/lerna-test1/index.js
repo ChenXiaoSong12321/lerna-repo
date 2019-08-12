@@ -1,7 +1,7 @@
 module.exports = {
-  a = 3,
-  b = 22,
-  hh = 'sddfsfes',
+  a : 3,
+  b : 222,
+  hh : 'sddfsfes',
   log(){
     console.log('module1');
   }
