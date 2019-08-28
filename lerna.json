@@ -2,7 +2,8 @@
   "packages": [
     "packages/*"
   ],
-  "publishConfig": {},
-  "registry": "https://nexus.hupovip.cn/repository/hp-npm/",
+  "publishConfig": {
+    "registry": "https://nexus.hupovip.cn/repository/hp-npm/",
+  },
   "version": "independent"
 }
