@@ -5,5 +5,9 @@ module.exports = {
   test1 : test1.hh,
   log(){
     console.log('module1') 
+    console.log('module1') 
+    console.log('module1') 
+    console.log('module1') 
+    console.log('module1') 
   }
 }
